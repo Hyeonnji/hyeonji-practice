@@ -1,0 +1,9 @@
+*.tar
+*.bam
+*.bam.bai
+*.gz
+.ipynb_checkpoints/
+binfo1-datapack1/
+binfo1-work/
+jupyter-env/
+
